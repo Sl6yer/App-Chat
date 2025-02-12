@@ -1,4 +1,4 @@
-Chat App com Firebase e Google Sign-In
+## Chat App com Firebase e Google Sign-In
 
 Este é um aplicativo de chat simples que utiliza o Firebase para autenticação e armazenamento de dados, e o Google Sign-In para login. Os usuários podem enviar mensagens de texto e imagens em tempo real. A aplicação é construída com Flutter e integra-se com o Firebase para gerenciar a autenticação e o armazenamento de mensagens.
 
